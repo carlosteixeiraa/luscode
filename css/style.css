@@ -90,6 +90,11 @@ header nav ul li {
 	text-align: center;
 }
 
+.sobre .icon {
+	width: 150px;
+	height: 150px;
+}
+
 .inicioDown {
 	padding: 0.8em;
 	background-color: #37474f;
